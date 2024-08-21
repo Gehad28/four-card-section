@@ -18,8 +18,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [https://github.com/Gehad28/product-preview-card](https://github.com/Gehad28/product-preview-card)
-- Live Site URL: [https://gehad28.github.io/product-preview-card](https://gehad28.github.io/product-preview-card)
+- Solution URL: [https://github.com/Gehad28/four-card-section](https://github.com/Gehad28/four-card-section)
+- Live Site URL: [https://gehad28.github.io/four-card-section](https://gehad28.github.io/four-card-section)
 
 ## My process
 
